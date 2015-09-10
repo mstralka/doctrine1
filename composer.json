@@ -1,7 +1,7 @@
 {
-    "name": "doctrine/doctrine1",
+    "name": "mstralka/doctrine1",
     "type": "library",
-    "description": "PHP5 Database ORM",
+    "description": "PHP5 Database ORM - forked to make it compatible with Laravel 5.1, and to generate models with namespaces",
     "keywords": ["orm", "database"],
     "homepage": "http://www.doctrine-project.org",
     "license": "LGPL",
